@@ -3,7 +3,7 @@ html = '''
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <link rel="stylesheet" href="../../share.css">
+        <link rel="stylesheet" href="https://carbonatedwater.github.io/share.css">
         <title>{} | {}</title>
     </head>
     <body><header><h1 class="page-title">{} [{}회]</h1></header><div class="page-body"><h1>{} <font color="{}">{}</font></h1><h2>방영일시: {} {}</h2><hr/>
