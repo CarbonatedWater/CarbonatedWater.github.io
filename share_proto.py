@@ -3,6 +3,11 @@ html = '''
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta property="og:title" content="{}"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:url" content="https://carbonatedwater.github.io/airlist/{}/{}"/>
+        <meta property="og:description" content="{}"/>
+        <meta property="og:image" content="{}"/>
         <link rel="stylesheet" href="https://carbonatedwater.github.io/share.css">
         <title>{} | {}</title>
     </head>
