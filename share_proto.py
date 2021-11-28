@@ -7,7 +7,6 @@ html = '''
         <meta property="og:title" content="{}"/>
         <meta property="og:type" content="article"/>
         <meta property="og:url" content="https://carbonatedwater.github.io/airlist/{}/{}"/>
-        <meta property="og:description" content="{}"/>
         <meta property="og:image" content="{}"/>
         <meta property="og:image:width" content="1200"> 
         <meta property="og:image:height" content="630"> 
