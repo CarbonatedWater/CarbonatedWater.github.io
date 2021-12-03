@@ -4,7 +4,6 @@ html = '''
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta property="og:site_name" content="다큐맨">
-        <meta property="og:title" content="{}"/>
         <meta property="og:type" content="article"/>
         <meta property="og:url" content="https://carbonatedwater.github.io/airlist/{}/{}"/>
         <meta property="og:image" content="{}"/>
