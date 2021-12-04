@@ -10,7 +10,6 @@ html = '''
         <meta property="og:image:width" content="1200"> 
         <meta property="og:image:height" content="630"> 
         <link rel="stylesheet" href="https://carbonatedwater.github.io/share.css">
-        <title>{} | {}</title>
     </head>
     <body><header><h1 class="page-title">{} [{}회]</h1></header><div class="page-body"><h1>{} <font color="{}">{}</font></h1><h2>방영일시: {} {}</h2><hr/>
             <center><img src="{}"/></center>
