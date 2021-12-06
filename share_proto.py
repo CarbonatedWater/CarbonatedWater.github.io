@@ -3,8 +3,8 @@ html = '''
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <meta property="og:site_name" content="다큐맨">
         <meta property="og:type" content="article"/>
+        <meta property="og:title" content="다큐맨"/>
         <meta property="og:url" content="https://carbonatedwater.github.io/airlist/{}/{}"/>
         <meta property="og:image" content="{}"/>
         <meta property="og:image:width" content="1200"> 
